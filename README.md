@@ -69,20 +69,22 @@ It provides three distinct portals – **Student**, **Training & Placement Offic
 ## 🗂️ Project Structure
 placement-management-system/
 ├── backend/
-│ ├── config/ # DB connection
-│ ├── models/ # User, StudentProfile, Job, Application
-│ ├── middleware/ # Auth & role checks
-│ ├── routes/ # API endpoints (auth, student, tpo, management, superadmin, upload)
-│ ├── utils/ # Cloudinary config
-│ └── server.js
+│   ├── config/
+│   ├── models/
+│   ├── middleware/
+│   ├── routes/
+│   ├── utils/
+│   ├── .env
+│   └── server.js
 └── frontend/
-├── src/
-│ ├── components/ # PrivateRoute, etc.
-│ ├── pages/ # Login, Register, StudentDashboard, StudentJobs, StudentApplications, StudentProfile, TPODashboard, ManageJobs, JobApplications, ManagementDashboard, SuperAdmin
-│ ├── context/ # AuthContext
-│ ├── services/ # API client
-│ └── App.js
-└── index.html
+    ├── src/
+    │   ├── components/
+    │   ├── pages/
+    │   ├── context/
+    │   ├── services/
+    │   └── App.js
+    ├── package.json
+    └── index.html
 
 
 ---
