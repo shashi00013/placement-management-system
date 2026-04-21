@@ -182,20 +182,3 @@ GitHub: shashi00013
 LinkedIn: linkedin.com/in/shashi0013
 
 Project Link: https://github.com/shashi00013/placement-management-system
-
-🙏 Acknowledgements
-React
-
-Node.js
-
-MongoDB
-
-Cloudinary
-
-Tailwind CSS
-
-Recharts
-
-text
-
-This README matches your GitHub profile style, includes your contact info, and provides a clear, actionable guide for anyone who wants to use or contribute to the project. You can replace the placeholder screenshots with actual images once you deploy the app.
